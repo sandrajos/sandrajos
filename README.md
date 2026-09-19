@@ -27,7 +27,7 @@ I build cloud and DevOps projects focused on **AWS, Infrastructure as Code, auto
 - Building AWS and DevOps portfolio projects
 - Preparing for **AWS Solutions Architect Associate (SAA-C03)**
 - Preparing for **HashiCorp Terraform Associate**
-- Developing production-style cloud, automation and troubleshooting skills
+- Building hands-on cloud, automation and troubleshooting skills through practical projects
 
 ## 📌 Featured Projects
 
